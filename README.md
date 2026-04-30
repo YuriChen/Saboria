@@ -13,60 +13,6 @@ Saboria é um aplicativo mobile multiplataforma desenvolvido em Flutter que cone
 🦸 Animação Hero:	Transição suave da imagem entre a listagem e os detalhes, com efeito parallax
 📱 Multiplataforma:	Mesmo código para Android, iOS e Web — desenvolvido com Flutter
 
-📱 Telas do Aplicativo:
-┌─────────────────────────────────────────────────┐
-│                   TELA INICIAL                   │
-├─────────────────────────────────────────────────┤
-│  ┌─────────────────────────────────────────────┐│
-│  │  🔍 Buscar receitas...                      ││
-│  └─────────────────────────────────────────────┘│
-│  ┌──────────────┐  ┌──────────────┐             │
-│  │  🍝 Massa    │  │  🥗 Salada   │             │
-│  │  Carbonara   │  │  Caesar      │             │
-│  │  🇮🇹 Italiana │  │  🇺🇸 Americana│             │
-│  └──────────────┘  └──────────────┘             │
-│  ┌──────────────┐  ┌──────────────┐             │
-│  │  🍣 Sushi    │  │  🌮 Tacos    │             │
-│  │  🇯🇵 Japonesa │  │  🇲🇽 Mexicana │             │
-│  └──────────────┘  └──────────────┘             │
-│  ┌──────────────┐  ┌──────────────┐             │
-│  │  🍛 Curry    │  │  🥘 Paella   │             │
-│  │  🇮🇳 Indiana  │  │  🇪🇸 Espanhola│             │
-│  └──────────────┘  └──────────────┘             │
-│                                    [🎲 Aleatória]│
-└─────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────┐
-│                 TELA DE DETALHES                 │
-├─────────────────────────────────────────────────┤
-│  ┌─────────────────────────────────────────────┐│
-│  │                                             ││
-│  │          🖼️ IMAGEM DA RECEITA               ││
-│  │          (Hero + Parallax)                   ││
-│  │                                             ││
-│  └─────────────────────────────────────────────┘│
-│                                                  │
-│  🍝 Macarrão à Carbonara                        │
-│  🇮🇹 Italiana • Massa                            │
-│                                                  │
-│  ── INGREDIENTES ──                             │
-│  • 200g de macarrão                             │
-│  • 100g de bacon                                │
-│  • 2 ovos                                       │
-│  • 50g de queijo parmesão                       │
-│  • Pimenta a gosto                              │
-│                                                  │
-│  ── MODO DE PREPARO ──                          │
-│  1. Cozinhe o macarrão conforme as instruções   │
-│  2. Frite o bacon até dourar                    │
-│  3. Misture os ovos com o queijo                │
-│  4. Junte tudo e sirva quente                   │
-│                                                  │
-│  ── VÍDEO ──                                    │
-│  ▶ Assistir no YouTube                          │
-│                                                  │
-└─────────────────────────────────────────────────┘
-
 🛠️ Tecnologias Utilizadas
 Tecnologia	Aplicação
 Flutter 3.x	Framework multiplataforma para UI
