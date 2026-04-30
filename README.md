@@ -1,10 +1,7 @@
-# Saboria
-Saboria - Receitas do Mundo | App Flutter multiplataforma de descoberta de receitas culinárias. Conexão com API MealDB para busca por nome ou ingrediente, receita aleatória e grade visual com bandeira do país. Tela de detalhes exibe ingredientes com quantidades, modo de preparo e link para vídeo no YouTube. Animações Hero, design responsivo.
-
-📱 Saboria - Descubra Receitas do Mundo Todo
-📋 Visão Geral
+# Saboria - Descubra Receitas do Mundo Todo
 
 Saboria é um aplicativo mobile multiplataforma desenvolvido em Flutter que conecta os usuários a milhares de receitas culinárias de diferentes países e culturas. Com uma interface rica e intuitiva, o app permite buscar, explorar e salvar receitas, trazendo o mundo da gastronomia para a palma da mão.
+
 ✨ Funcionalidades Principais:
 🔍 Busca Inteligente:	Pesquise receitas por nome, ingrediente ou categoria diretamente na barra de busca
 🎲 Receita Aleatória:	Descubra novos pratos com um toque — ideal para quem quer sair da rotina
